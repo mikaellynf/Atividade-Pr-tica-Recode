@@ -1,0 +1,33 @@
+#logo{
+    height: 10%;
+    width: 6%;
+    
+    }
+    
+    #logo,h1,p{
+        display: inline-block;
+       align-items: center;
+    }
+    .body{
+        width: 100%;
+        height: 1000px;
+        position: relative;
+       background-size:cover;
+       background-repeat: no-repeat;
+    }
+    
+.azul{
+    background-color: rgb(221, 231, 229);
+    line-height: 50px;
+    opacity: 50%;
+    text-align: center;
+    word-spacing: 150px;
+}
+      form{
+       
+
+      }  
+      .row{
+      justify-content: center;
+      width: auto;
+      }
